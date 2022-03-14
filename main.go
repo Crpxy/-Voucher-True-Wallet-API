@@ -10,8 +10,8 @@ import (
 )
 
 var (
-  voucher = "ybnGibDfchHyef3WPm"
-  mobile = "0620235359"
+  voucher = "VOUCHER HERE"
+  mobile = "MOBILE HERE"
 )
 
 func main() {
